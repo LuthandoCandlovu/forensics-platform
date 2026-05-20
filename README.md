@@ -1,11 +1,14 @@
 ﻿# AI-Powered Digital Forensics Platform
 
+AI-powered incident response platform that analyzes suspicious files, logs, emails, and memory using YARA, Windows event logs, and a machine learning attribution model.
+
 ## Features
-- Malware file analysis (YARA)
-- Windows event log suspicious activity detection
-- Email phishing analysis
-- Timeline reconstruction
-- AI-generated forensic reports (ML attribution)
+- ✅ YARA‑based malware file scanning (recursive)
+- ✅ Suspicious Windows event log detection (4625, 7045)
+- ✅ Email phishing analysis (headers, links, attachments)
+- ✅ Timeline reconstruction (file + process activity)
+- ✅ ML threat attribution (RandomForest with placeholder model)
+- ✅ HTML report with confidence score & recommendations
 
 ## Quick Start
 1. Run .\setup_forensics_fixed.ps1 to install dependencies
@@ -17,7 +20,6 @@
 ## Requirements
 - Windows PowerShell 5.1+
 - Python 3.8+
-- YARA Python module (installed by setup script)
 
 ## Disclaimer
 Use only on systems you own or have explicit permission to analyze.

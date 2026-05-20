@@ -1,9 +1,4 @@
-﻿# Python
-__pycache__/
-*.pyc
-*.pyo
-
-# Output reports (contains system evidence - don't commit!)
+﻿# Output reports (contains system evidence - never commit)
 *.csv
 *.html
 suspicious_logs.csv
@@ -15,11 +10,14 @@ AI_Report.html
 # Temporary files
 *.tmp
 *.log
-C:\Users\lutha\AppData\Local\Temp\*
 
-# Sensitive - never commit real evidence
+# Evidence folders (never commit real data)
 suspicious_samples/
 emails/
+
+# Python
+__pycache__/
+*.pyc
 
 # IDE
 .vscode/
