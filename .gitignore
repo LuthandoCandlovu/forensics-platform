@@ -1,0 +1,26 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Output reports (contains system evidence - don't commit!)
+*.csv
+*.html
+suspicious_logs.csv
+yara_scan_results.csv
+phishing_report.csv
+forensic_timeline.csv
+AI_Report.html
+
+# Temporary files
+*.tmp
+*.log
+C:\Users\lutha\AppData\Local\Temp\*
+
+# Sensitive - never commit real evidence
+suspicious_samples/
+emails/
+
+# IDE
+.vscode/
+.idea/
