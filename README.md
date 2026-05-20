@@ -1,8 +1,8 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED HEADER  (venom / glitch style)    -->
+<!--                    ANIMATED HEADER  (slice — bold & sharp)    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a3d2e,60:1abc9c,100:0d1117&height=260&section=header&text=AI%20Digital%20Forensics&fontSize=52&fontColor=ffffff&fontAlignY=40&stroke=1abc9c&strokeWidth=2&desc=🔍%20Automated%20Incident%20Response%20Powered%20by%20Machine%20Learning&descAlignY=62&descSize=17&animation=twinkling" alt="Venom Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,40:0a3d2e,70:1abc9c,100:17a589&height=280&section=header&text=AI%20Digital%20Forensics&fontSize=58&fontColor=ffffff&fontAlign=70&fontAlignY=38&stroke=1abc9c&strokeWidth=3&desc=🔍%20Automated%20Incident%20Response%20%7C%20Powered%20by%20Machine%20Learning&descAlign=70&descAlignY=58&descSize=16&animation=fadeIn" alt="Slice Banner"/>
 </p>
 
 <!-- ══════════════════ ANIMATED TYPING LINE ══════════════════════ -->
