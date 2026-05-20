@@ -1,11 +1,16 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED HEADER  (venom / glitch style)    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1abc9c,100:0d1117&height=220&section=header&text=AI%20Digital%20Forensics%20Platform&fontSize=42&fontColor=1abc9c&fontAlignY=38&desc=Automated%20Incident%20Response%20Powered%20by%20Machine%20Learning&descAlignY=60&descSize=16&animation=fadeIn" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a3d2e,60:1abc9c,100:0d1117&height=260&section=header&text=AI%20Digital%20Forensics&fontSize=52&fontColor=ffffff&fontAlignY=40&stroke=1abc9c&strokeWidth=2&desc=🔍%20Automated%20Incident%20Response%20Powered%20by%20Machine%20Learning&descAlignY=62&descSize=17&animation=twinkling" alt="Venom Banner"/>
 </p>
 
+<!-- ══════════════════ ANIMATED TYPING LINE ══════════════════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1ABC9C&center=true&vCenter=true&width=700&lines=🔍+Malware+Detection+%7C+Log+Analysis+%7C+Email+Forensics;🧠+AI-Powered+Threat+Attribution;⚡+PowerShell+%2B+Python+Automation;🛡️+Incident+Response+in+Seconds" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=800&color=1ABC9C&center=true&vCenter=true&width=750&lines=⚡+Malware+Scanning+%7C+Log+Analysis+%7C+Email+Forensics;🧠+AI+Threat+Attribution+via+RandomForest+ML;🛡️+Automated+Blue-Team+Incident+Response;📊+HTML+Report+Generated+in+Seconds;🔐+YARA+Rules+%7C+Windows+Events+%7C+Timeline+Reconstruction" alt="Typing SVG" />
 </p>
 
+<!-- ═══════════════════════ BADGE ROW ════════════════════════════ -->
 <p align="center">
   <a href="https://github.com/LuthandoCandlovu/forensics-platform/stargazers">
     <img src="https://img.shields.io/github/stars/LuthandoCandlovu/forensics-platform?style=for-the-badge&color=1abc9c&labelColor=0d1117&logo=github" alt="Stars"/>
@@ -15,11 +20,54 @@
   </a>
   <img src="https://img.shields.io/badge/PowerShell-5.1+-5391FE?style=for-the-badge&logo=powershell&logoColor=white&labelColor=0d1117" alt="PowerShell"/>
   <img src="https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" alt="Python"/>
+  <img src="https://img.shields.io/badge/scikit--learn-ML%20Engine-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=0d1117" alt="sklearn"/>
+  <img src="https://img.shields.io/badge/YARA-Rules%20Engine-e74c3c?style=for-the-badge&labelColor=0d1117" alt="YARA"/>
   <img src="https://img.shields.io/badge/License-MIT-F39C12?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0d1117" alt="License"/>
   <img src="https://img.shields.io/badge/Status-Active-1abc9c?style=for-the-badge&labelColor=0d1117" alt="Status"/>
 </p>
 
+<!-- ═══════════════════ SNAKE / ACTIVITY ANIMATION ═══════════════ -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 <br/>
+
+---
+
+## 🖼️ Platform Preview
+
+<!-- ─────────────────────────────────────────────────────────────── -->
+<!--  YOUR IMAGE — save the screenshot as images/preview.png        -->
+<!--  in your repo, then the img tag below will display it.         -->
+<!--  How to add it:                                                 -->
+<!--    1. mkdir images  (in your repo root)                        -->
+<!--    2. Save/download your screenshot as  images/preview.png     -->
+<!--    3. git add images/preview.png && git commit && git push      -->
+<!-- ─────────────────────────────────────────────────────────────── -->
+
+<p align="center">
+  <a href="https://github.com/LuthandoCandlovu/forensics-platform">
+    <img src="images/preview.png"
+         alt="AI Forensics Platform Preview"
+         width="820"
+         style="border-radius:12px; border: 2px solid #1abc9c;"/>
+  </a>
+  <br/>
+  <sub>
+    📌 <em>Platform preview — AI-generated forensic HTML report dashboard.</em><br/>
+    <strong>To activate:</strong> save your screenshot as <code>images/preview.png</code> and push it to your repo.
+  </sub>
+</p>
+
+> 💡 **How to add your image permanently:**
+> ```powershell
+> mkdir images
+> # Copy your screenshot into the images/ folder, name it preview.png
+> git add images/preview.png
+> git commit -m "Add platform preview screenshot"
+> git push
+> ```
 
 ---
 
@@ -33,16 +81,16 @@ This platform is an end-to-end, **automated incident response toolkit** that fus
 Whether you're a **security analyst**, a **blue-team defender**, or a **student learning DFIR**, this platform gives you a production-grade investigation pipeline in a single command.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="480" alt="Cybersecurity Analysis GIF"/>
+  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="520" alt="Cyber Analysis GIF"/>
   <br/>
-  <em>⚡ Automated forensic investigation — from evidence to report in seconds</em>
+  <em>⚡ Automated forensic investigation — from raw evidence to AI report in seconds</em>
 </p>
 
 ---
 
 ## 🌐 Background
 
-The volume and complexity of cyber threats are growing at an unprecedented rate. Traditional manual forensic workflows are unable to keep up with:
+The volume and complexity of cyber threats are growing at an unprecedented rate. Traditional manual forensic workflows cannot keep up with:
 
 - 🔺 **Ransomware** campaigns encrypting thousands of files per second
 - 🔺 **Phishing emails** that bypass conventional spam filters
@@ -54,7 +102,7 @@ This project was built to address these challenges head-on using a **modular, AI
 | Challenge | Our Solution |
 |-----------|-------------|
 | Slow manual malware triage | ⚡ YARA rule scanning via `yara-python` |
-| Missed Windows security events | 📋 Automated 4625/7045 event detection |
+| Missed Windows security events | 📋 Automated `4625` / `7045` event detection |
 | Email phishing analysis delay | 📧 Parsed `.eml` headers, links & attachments |
 | No unified timeline | 🕐 Filesystem + process event correlation |
 | Human-error in threat attribution | 🧠 RandomForest ML with confidence scoring |
@@ -64,16 +112,16 @@ This project was built to address these challenges head-on using a **modular, AI
 ## ✨ Features
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="400" alt="Scanning GIF"/>
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="440" alt="Scanning Radar GIF"/>
 </p>
 
-| Module | Description | Output File |
+| Module | Description | Output |
 |---|---|---|
 | 🛡️ **Malware Scanner** | Recursive YARA-rule file scanning across all directories | `yara_scan_results.csv` |
-| 📋 **Log Detector** | Flags failed logins (`4625`) & suspicious services (`7045`) | `suspicious_logs.csv` |
+| 📋 **Log Detector** | Flags failed logins (`4625`) & suspicious new services (`7045`) | `suspicious_logs.csv` |
 | 📧 **Email Analyzer** | Parses headers, embedded links & attachments from `.eml` files | `phishing_report.csv` |
 | 🕐 **Timeline Builder** | Reconstructs filesystem + process events from the last 7 days | `forensic_timeline.csv` |
-| 🧠 **AI Attributor** | ML-based threat classification with confidence score & remediation | `AI_Report.html` |
+| 🧠 **AI Attributor** | ML threat classification with confidence score & remediation steps | `AI_Report.html` |
 
 ---
 
@@ -106,7 +154,7 @@ graph TD
 ## 🚀 Quick Start
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="460" alt="Terminal GIF"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Hacker Terminal GIF"/>
 </p>
 
 ### 1️⃣ Clone & Install Dependencies
@@ -136,8 +184,7 @@ forensics-platform/
 ### 4️⃣ View the AI Report
 
 ```powershell
-# AI_Report.html opens automatically in your default browser 🌐
-# Example output:
+# AI_Report.html opens automatically in your browser 🌐
 
 Threat:          Ransomware
 Confidence:      87%
@@ -149,7 +196,7 @@ Recommendations: Isolate host · Collect memory dump · Reset credentials
 ## 🧠 AI Attribution Engine
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="420" alt="AI Brain GIF"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="420" alt="AI Neural Network GIF"/>
 </p>
 
 The current model uses a **RandomForest classifier** trained on synthetic samples to demonstrate the pipeline. Replace `ai_attribution.py` with a production-grade model trained on real threat intelligence feeds.
@@ -190,6 +237,8 @@ forensics-platform/
 ├── 🐍 ai_attribution.py                 # ML attribution engine
 ├── ⚙️  setup_forensics_fixed.ps1        # Dependency installer
 │
+├── 📂 images/                           # Screenshots & preview images
+│   └── 🖼️  preview.png                  # ← your platform screenshot here
 ├── 📂 suspicious_samples/               # (user-added) malware samples
 ├── 📂 emails/                           # (user-added) .eml files
 │
@@ -204,7 +253,7 @@ forensics-platform/
 
 ## 🛠️ Requirements
 
-| Requirement | Version |
+| Requirement | Details |
 |---|---|
 | 🪟 Windows OS | 10 / 11 / Server 2016+ |
 | 💙 PowerShell | 5.1 or 7+ |
@@ -215,14 +264,18 @@ forensics-platform/
 
 ## 🗺️ Roadmap
 
-- [x] YARA malware scanning module
-- [x] Windows Event Log detection
-- [x] Email phishing analyzer
-- [x] Forensic timeline builder
-- [x] AI attribution with HTML report
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="380" alt="GitHub Roadmap GIF"/>
+</p>
+
+- [x] 🛡️ YARA malware scanning module
+- [x] 📋 Windows Event Log detection
+- [x] 📧 Email phishing analyzer
+- [x] 🕐 Forensic timeline builder
+- [x] 🧠 AI attribution with HTML report
 - [ ] 🧩 Volatility3 memory forensics integration
-- [ ] 📈 Real ML model (XGBoost on threat datasets)
-- [ ] 🌐 FastAPI backend
+- [ ] 📈 Real ML model (XGBoost on MITRE ATT&CK datasets)
+- [ ] 🌐 FastAPI backend REST API
 - [ ] ⚛️ React dashboard with live evidence viewer
 - [ ] 🐳 Docker container for cross-platform support
 
@@ -257,18 +310,23 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more informa
 ## 👨‍💻 Author
 
 <p align="center">
-  <b>Luthando Candlovu</b><br/>
+  <b>Luthando Candlovu</b><br/><br/>
   <a href="https://github.com/LuthandoCandlovu">
     <img src="https://img.shields.io/badge/GitHub-LuthandoCandlovu-1abc9c?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
   </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Cybersecurity-DFIR%20%7C%20Blue%20Team-e74c3c?style=for-the-badge&labelColor=0d1117"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/ML-Threat%20Attribution-8e44ad?style=for-the-badge&labelColor=0d1117"/>
 </p>
 
 ---
 
+<!-- ══════════════════ ANIMATED FOOTER ════════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1abc9c,100:0d1117&height=120&section=footer&animation=fadeIn" alt="Footer Wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,50:1abc9c,100:0d1117&height=140&section=footer&animation=twinkling" alt="Shark Footer"/>
 </p>
 
 <p align="center">
-  <em>⭐ If this project helped you — please consider giving it a star!</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=2000&color=1ABC9C&center=true&vCenter=true&width=600&lines=⭐+Found+this+useful%3F+Drop+a+star+—+it+means+the+world!+⭐" alt="Footer Typing"/>
 </p>
